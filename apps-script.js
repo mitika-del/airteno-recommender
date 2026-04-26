@@ -32,7 +32,7 @@
 //   v[26] health_conditions
 // ============================================================================
 
-var API_URL = 'https://YOUR-APP.vercel.app/api/generate'; // update after vercel deploy
+var API_URL = 'https://airteno-recommender-3grlj4mlx-mitika-dels-projects.vercel.app/api/generate'; // update after vercel deploy
 
 // Surveyor email lookup — set both in Apps Script project properties or hardcode here.
 var SURVEYOR_EMAILS = {
