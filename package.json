@@ -1,0 +1,11 @@
+{
+  "name": "airteno-recommender",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": "18.x" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "pptxgenjs": "^3.12.0",
+    "resend": "^3.0.0"
+  }
+}
